@@ -1,1 +1,1 @@
-# Java
+# Java downlaod the zip file and the Apache NetBeans 22 to open it.Go to the file until find the src/final1 to open it or go to Apache NetBeans 22 to open folder this java. It is start from dashboard to login the system. Thank you.
